@@ -9,5 +9,3 @@ ForEach-Object {
     $MountPoint = $_.MountPoint
     $MountPoint,$BitlockerVolumers.KeyProtector > $LogLocate
 } 
-
-# TrustMe
